@@ -1,4 +1,4 @@
-Olá! Bem vindo ao projeto análise de vendas
+Olá! Bem vindo ao projeto análise de perfil dos clientes
 
 - Esse projeto tem como objetivo gerar análises dos dados dos perfis dos clientes de uma empresa fictícia vendedora de carros.
 
@@ -13,7 +13,7 @@ Olá! Bem vindo ao projeto análise de vendas
   link: https://www.udemy.com/course/sql-para-analise-de-dados/
 
 
- Hello! Welcome to the sales analysis project
+Hello! Welcome to the customer profile analysis project
 
 - This project aims to generate analysis of customer profile data from a fictitious car sales company.
 
